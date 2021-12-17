@@ -1,0 +1,27 @@
+.map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 90%;
+}
+.features {
+position: absolute;
+top: 0;
+right: 0;
+
+width: 25%;
+height: 90%;
+overflow: auto;
+background: rgba(255, 255, 255, 0.8);
+}
+.about {
+position: absolute;
+text-align: left bottom;
+top: 90%;
+left: 0;
+bottom: 0;
+width: 100%;
+overflow: auto;
+background: rgb(255, 255, 255);
+}
